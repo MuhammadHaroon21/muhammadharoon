@@ -16,7 +16,7 @@ export const SITE = {
   location: "Karachi, Pakistan",
   resumeUrl: "/resume.pdf",
   socials: {
-    github: "https://github.com", // TODO: apna GitHub link,
+    github: "https://github.com/MuhammadHaroon21", // TODO: apna GitHub link,
     linkedin: "https://www.linkedin.com/in/muhammadharoonraheem",
     instagram: "https://www.instagram.com", // TODO: apna Instagram link,
     dribbble: "https://dribbble.com",
